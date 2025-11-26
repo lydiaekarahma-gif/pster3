@@ -1,0 +1,5 @@
+{
+  "name": "PosterDigital",
+  "description": "A smart digital poster creator that uses Gemini AI to generate compelling designs, copy, and color palettes for events, sales, and announcements.",
+  "requestFramePermissions": []
+}
